@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/to-do-app-wevg/static/css/main.fed69db3.chunk.css",
+    "main.js": "/to-do-app-wevg/static/js/main.26686888.chunk.js",
+    "main.js.map": "/to-do-app-wevg/static/js/main.26686888.chunk.js.map",
+    "runtime-main.js": "/to-do-app-wevg/static/js/runtime-main.687801f4.js",
+    "runtime-main.js.map": "/to-do-app-wevg/static/js/runtime-main.687801f4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/to-do-app-wevg/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.41215782.chunk.js": "/to-do-app-wevg/static/js/2.41215782.chunk.js",
+    "static/js/2.41215782.chunk.js.map": "/to-do-app-wevg/static/js/2.41215782.chunk.js.map",
+    "index.html": "/to-do-app-wevg/index.html",
+    "precache-manifest.04122e96356f9865ed96c848a7a8d49a.js": "/to-do-app-wevg/precache-manifest.04122e96356f9865ed96c848a7a8d49a.js",
+    "service-worker.js": "/to-do-app-wevg/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/to-do-app-wevg/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.fed69db3.chunk.css.map": "/to-do-app-wevg/static/css/main.fed69db3.chunk.css.map",
+    "static/js/2.41215782.chunk.js.LICENSE.txt": "/to-do-app-wevg/static/js/2.41215782.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.687801f4.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.41215782.chunk.js",
+    "static/css/main.fed69db3.chunk.css",
+    "static/js/main.26686888.chunk.js"
+  ]
+}
